@@ -1,4 +1,4 @@
 - Postman collection can be found in /postman
 - Cypress test can be found in /cypress/e2e
 - To run cypress test in headless mode, use "npm run test:headless"
-- OR to run cypress test in UI mode, use "npm run test:headfull"
+- OR to run cypress test in UI mode, use "npm run test:headful"
