@@ -1,0 +1,28 @@
+{
+  "name": "post-malaysia-test-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:headful": "cypress open",
+    "test:headless": "cypress run" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleightu/post-malaysia-test-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleightu/post-malaysia-test-assessment/issues"
+  },
+  "homepage": "https://github.com/ashleightu/post-malaysia-test-assessment#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.3.2"
+  },
+  "devDependencies": {
+    "@types/cypress": "^0.1.6",
+    "typescript": "^5.8.3"
+  }
+}
